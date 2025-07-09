@@ -33,12 +33,12 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: TexturesCom_WoodRough0089_1_seamless_S
-    second: {fileID: 2800000, guid: 75f89f676a61be84e8230100ea2b1df7, type: 3}
+    second: {fileID: 2800000, guid: 85bb06cd1b0c82f4b86d24689bc27b90, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: rough_wood_diff_1k
-    second: {fileID: 2800000, guid: 4ff4943ecb679e14597fef80b104a9fb, type: 3}
+    second: {fileID: 2800000, guid: bfd872ff49457424ab28cfd366109ee2, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
